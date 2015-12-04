@@ -1,2 +1,2 @@
 # authctrl
-authctrl - go practices
+a authority control project base on beego
